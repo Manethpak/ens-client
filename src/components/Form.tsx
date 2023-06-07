@@ -1,5 +1,5 @@
 import { ethers } from "ethers";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { CONTRACT_ABI, CONTRACT_ADDRESS, TLD } from "../util/constants";
 
 const Form = ({
